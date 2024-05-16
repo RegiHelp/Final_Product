@@ -1,3 +1,6 @@
 [submodule "UT-registration-plus-copy"]
 	path = UT-registration-plus-copy
 	url = https://github.com/RegiHelp/UT-registration-plus-copy.git
+[submodule "Auto-entry"]
+	path = Auto-entry
+	url = https://github.com/RegiHelp/Auto-entry.git
